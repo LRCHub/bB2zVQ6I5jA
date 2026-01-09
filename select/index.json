@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "刹那の正体",
+  "base_artist": "七次元生徒会！",
+  "createdAt": "2026-01-09T12:13:58.793600Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "刹那の正体",
+      "artist": "七次元生徒会!",
+      "has_synced": false,
+      "path": "select/pl_01_刹那の正体_七次元生徒会!.txt"
+    }
+  ]
+}
